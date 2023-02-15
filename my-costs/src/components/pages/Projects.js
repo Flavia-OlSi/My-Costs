@@ -1,6 +1,6 @@
 import { useLocation } from "react-router-dom"
 import { useState, useEffect } from "react"
-import Message from "./Message"
+import Message from '../layout/Message'
 import Container from "../layout/Container"
 import LinkButton from "../layout/LinkButton"
 import ProjectCard from "../project/ProjectCard"

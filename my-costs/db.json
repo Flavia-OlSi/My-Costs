@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "name": "Flávia",
-      "budge": "1000",
+      "name": "Projeto atualizado",
+      "budge": "1505",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
